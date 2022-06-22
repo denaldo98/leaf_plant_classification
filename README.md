@@ -6,7 +6,7 @@ We were provided with the training dataset, while models were evaluated on a hid
 
 Project realized with *Keras* module in *Python*
 
-## Dataset
+## Dataset and Development steps
 Details about the dataset and some exploratory data analysis are reported in the provided Python notebook [dataLoading](https://github.com/denaldo98/leaf_plant_classification/blob/main/dataLoading.ipynb).
 
 As can be seen in the [notebook](https://github.com/denaldo98/leaf_plant_classification/blob/main/dataLoading.ipynb), the provided dataset is highly unbalanced. 

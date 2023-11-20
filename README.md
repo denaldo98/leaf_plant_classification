@@ -2,13 +2,13 @@
 # Plant leaf classification
 **Assignment 1** of  the course *Artificial Neural Networks and Deep Learning* at *Politecnico di Milano*: Deep Learning models to classify images of leafs, which are divided into categories according to the species of the plant to which they belong.
 
-**Authors:**
-- Denaldo Lapi
-- Fabio Raffaeli
-
 We were provided with the training dataset, while models were evaluated on a hidden test dataset.
 
 Project realized with *Keras* module in *Python*
+
+**Authors:**
+- Denaldo Lapi
+- Fabio Raffaeli
 
 ## Dataset and Development steps
 Details about the dataset and some exploratory data analysis are reported in the provided Python notebook [dataLoading](https://github.com/denaldo98/leaf_plant_classification/blob/main/dataLoading.ipynb).
